@@ -116,9 +116,10 @@ Hackerrank              -  [Check out!](https://www.hackerrank.com/Abhishek_14)<
 
 
 ### My WakaTime Stats 📊:
-  <img src="https://github.com/AbhishekSharma51/AbhishekSharma51/blob/master/images/codeStats.svg" alt="Alternative Text"/>
 
-  
+  <!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
   
   
   
