@@ -1,18 +1,21 @@
+<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='150'>
 
 
 # <i>Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"><i>
 
  <h1 align="center"><b><i>I'm Abhishek Sharma</b><i></h1>
  
-
-- 🔭 I’m currently working on ... Github
-- 🌱 I’m currently learning ... Full Stack Development
+<br />
+  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="260" />
+  
+- 🔭 I’m currently working on ... Github                         
+- 🌱 I’m currently learning ... Full Stack Development          
 - 👯 I’m looking to collaborate on ... Backend
-- 🤔 I’m looking for help with ... AWS
+- 🤔 I’m looking for help with ... AWS        
 - 💬 Ask me about ... Anything
 - 📫 How to reach me: ... abhishek1643.cse18@chitkara.edu.in
 - 😄 Pronouns: ... He/Him
-- ⚡ Fun fact: ... U wont know that
+- ⚡ Fun fact: ... U wont know that     
 -->
 
 
@@ -108,7 +111,7 @@ Hackerrank              -  [Check out!](https://www.hackerrank.com/Abhishek_14)<
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhisheksharma51&show_icons=true&locale=en" alt="abhisheksharma51" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhisheksharma51&" alt="abhisheksharma51" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhisheksharma51&" alt="abhisheksharma51"/></p>
 
 # My Projects ✨:
   
@@ -122,14 +125,15 @@ Hackerrank              -  [Check out!](https://www.hackerrank.com/Abhishek_14)<
 No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
-
+  
+  
+<img src="https://activity-graph.herokuapp.com/graph?username=Abhishek Sharma&theme=tokyonight"alt="Contribution Graph" align="center" /) 
+<div align="center">
   
   
   
-  
-  
-
-
+<br>
+<img src="https://activity-graph.herokuapp.com/graph?username=AbhishekSharma51&theme=xcode" alt="Contribution Graph" align="center" />
 <div align="center">
   
   
