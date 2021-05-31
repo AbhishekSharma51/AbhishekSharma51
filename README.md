@@ -111,7 +111,7 @@ Hackerrank              -  [Check out!](https://www.hackerrank.com/Abhishek_14)<
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhisheksharma51&show_icons=true&locale=en" alt="abhisheksharma51" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhisheksharma51&" alt="abhisheksharma51"/></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AbhishekSharma51&" alt="AbhishekSharma51"/></p>
 
 # My Projects ✨:
   
@@ -132,7 +132,7 @@ No Activity tracked this Week
   
   
 <br>
-<img src="https://activity-graph.herokuapp.com/graph?username=AbhishekSharma51&theme=xcode" alt="Contribution Graph" align="center" />
+<img src="https://activity-graph.herokuapp.com/graph?username=AbhishekSharma51&theme=xcode"alt="Contribution Graph"align="center"/>
 <div align="center">
   
   
