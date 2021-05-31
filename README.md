@@ -118,12 +118,9 @@ Hackerrank              -  [Check out!](https://www.hackerrank.com/Abhishek_14)<
 ### My WakaTime Stats 📊:
 
   <!--START_SECTION:waka-->
-  
-  
-  
-  
-  
-  
+```text
+No Activity tracked this Week
+```
 <!--END_SECTION:waka-->
 
   
