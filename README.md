@@ -28,14 +28,14 @@
 
 
 
-<!--- <h3 align="center"><img src="https://i.imgur.com/ahdGDEy.gif" width="18%"> I'm Full Stack Developer -<img  src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="28"/></h3> -->
+ <h3 align="center"><img src="https://i.imgur.com/ahdGDEy.gif" width="18%"> I'm Full Stack Developer -<img  src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="28"/></h3> 
  
                                                          
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=AbhishekSharma51&label=Profile%20views&color=0e75b6&style=flat" alt="AbhishekSharma51" /> </p>
 
 <table cellpadding="0" cellspacing="0" border="0">
   <tr>
-    <td><p align="left"> <a href="#"><img src="https://github-profile-trophy.vercel.app/?username=AbhishekSharma51&theme=onelight"        alt="AbhishekSharma51" /></a> </p></td>
+    <td><p align="left"> <a href="#"><img src="https://github-profile-trophy.vercel.app/?username=AbhishekSharma51&theme=monokai"        alt="AbhishekSharma51" /></a> </p></td>
     <td><img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 </td>
   </tr>
@@ -127,7 +127,6 @@ No Activity tracked this Week
 <!--END_SECTION:waka-->
   
   
-
   
   
   
