@@ -109,9 +109,9 @@ Hackerrank              -  [Check out!](https://www.hackerrank.com/Abhishek_14)<
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhisheksharma51&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="abhisheksharma51" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhisheksharma51&show_icons=true&locale=en" alt="abhisheksharma51" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhisheksharma51&show_icons=true&locale=en&theme=tokyonight" alt="abhisheksharma51" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AbhishekSharma51&" alt="AbhishekSharma51"/></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AbhishekSharma51&theme=tokyonight" alt="AbhishekSharma51"/></p>
 
 # My Projects ✨:
   
