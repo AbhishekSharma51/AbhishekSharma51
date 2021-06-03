@@ -107,7 +107,7 @@ Hackerrank              -  [Check out!](https://www.hackerrank.com/Abhishek_14)<
 ### Github Activity ✔:
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhisheksharma51&show_icons=true&locale=en&layout=compact" alt="abhisheksharma51" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhisheksharma51&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="abhisheksharma51" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhisheksharma51&show_icons=true&locale=en" alt="abhisheksharma51" /></p>
 
