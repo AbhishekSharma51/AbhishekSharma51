@@ -121,11 +121,9 @@ Hackerrank              -  [Check out!](https://www.hackerrank.com/Abhishek_14)<
 ### My WakaTime Stats 📊:
 
   <!--START_SECTION:waka-->
-```text 
-  
-Other   32 hrs 55 mins  █████████████████████████   100.00 % 
-
-  ```
+```text
+Other   52 hrs 27 mins  █████████████████████████   100.00 % 
+```
 <!--END_SECTION:waka-->
   
   
