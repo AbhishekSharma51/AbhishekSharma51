@@ -122,7 +122,7 @@ Hackerrank              -  [Check out!](https://www.hackerrank.com/Abhishek_14)<
 
   <!--START_SECTION:waka-->
 ```text
-Other   55 hrs 36 mins  █████████████████████████   100.00 % 
+Other   55 hrs 52 mins  █████████████████████████   100.00 % 
 ```
 <!--END_SECTION:waka-->
   
